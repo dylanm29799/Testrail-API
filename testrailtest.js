@@ -23,7 +23,7 @@ const {
 
 // Configuration
 const TESTRAIL_URL = 'https://testrail.laya.ie';
-const SESSION_TOKEN = 'bab34c7f-9464-4626-ac4c-15b0c6b19e73';
+const SESSION_TOKEN = '';
 const RUN_ID = 4408;
 const OUTPUT_DOC = `TestRun_${RUN_ID}_Export.docx`;
 const ATTACHMENTS_FOLDER = './attachments';
